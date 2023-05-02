@@ -1,0 +1,14 @@
+.header {
+  background-color: beige;
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 10px 15px;
+
+  img {
+    height: 25px;
+  }
+
+  input {
+    width: 50em;
+  }
+}
